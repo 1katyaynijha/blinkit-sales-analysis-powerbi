@@ -69,6 +69,3 @@ The dashboard helps analyze Blinkit's grocery sales data from different perspect
 - Outlet types
 - Item characteristics
 - Customer ratings
-
-et sizes, or item types.
-5. Explore the interactive charts and KPIs.
